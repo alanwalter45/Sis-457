@@ -15,10 +15,10 @@ se pide :
 
 ## Para crear la interfaz de usuario se usaron los siguientes controles :
 
-* txtNombreCompleto : "TextBox" utilizado para introducir el "Nombre Completo" de un usuario.
+* <b>txtNombreCompleto</b> : "TextBox" utilizado para introducir el "Nombre Completo" de un usuario.
 
-* txtEdad : "TextBox" utilizado para introducir la "Edad" de un usuario.
+* <b>txtEdad</b> : "TextBox" utilizado para introducir la "Edad" de un usuario.
 
-* btnListarRegistros : "Button" necesario para mostrar la lista todos los registros.
+* <b>btnListarRegistros</b> : "Button" necesario para mostrar la lista todos los registros.
 
-* btnRegistrar : "Button" para realizar la operación de adicionar un nuevo registro.
+* <b>btnRegistrar</b> : "Button" para realizar la operación de adicionar un nuevo registro.

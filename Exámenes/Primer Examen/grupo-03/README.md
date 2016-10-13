@@ -17,12 +17,12 @@ Calcular el área. Validar que todos los datos sean ingresados y que estén en e
 
 ## Para crear la interfaz de usuario se usaron los siguientes controles :
 
-* cbForma : "ComboBox" utilizado para contener las lista de Formas existentes("Cuadrado","Rectángulo",etc).
+* <b>cbForma</b> : "ComboBox" utilizado para contener las lista de Formas existentes("Cuadrado","Rectángulo",etc).
 
-* pbFormula : "PictureBox" utilizado para visualizar la fotografia correspondiente a la fórmula de una determinada figura.
+* <b>pbFormula</b> : "PictureBox" utilizado para visualizar la fotografia correspondiente a la fórmula de una determinada figura.
 
-* npN1: "NumericUpDown" utilizado para introducir un número.
+* <b>npN1</b> : "NumericUpDown" utilizado para introducir un número.
 
-* npN2: "NumericUpDown" utilizado para introducir un número.
+* <b>npN2</b> : "NumericUpDown" utilizado para introducir un número.
 
-* btnCalcular: "Button" utilizado para Calcular el area de una determinada figura.
+* <b>btnCalcular</b> : "Button" utilizado para Calcular el area de una determinada figura.

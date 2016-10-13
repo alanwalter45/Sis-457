@@ -6,10 +6,10 @@
 
 ## Para crear la interfaz de usuario se usaron los siguientes controles :
 
-* txtNombreCompleto : "TextBox" utilizado para introducir el "Nombre Completo" de un trabajador.
+* <b>txtNombreCompleto</b> : "TextBox" utilizado para introducir el "Nombre Completo" de un trabajador.
 
-* txtHorasTrabajadas : "NumericUpDown" utilizado para introducir las "Horas Trabajadas" por un trabajador.
+* <b>txtHorasTrabajadas</b> : "NumericUpDown" utilizado para introducir las "Horas Trabajadas" por un trabajador.
 
-* txtTarifa : "NumericUpDown" utilizado para introducir la "Tarifa" que gana un trabajador por hora.
+* <b>txtTarifa</b> : "NumericUpDown" utilizado para introducir la "Tarifa" que gana un trabajador por hora.
 
-* btnCalcular : "Button" para realizar la operación de calcular el monto total a pagarle a un trabajador.
+* <b>btnCalcular</b> : "Button" para realizar la operación de calcular el monto total a pagarle a un trabajador.

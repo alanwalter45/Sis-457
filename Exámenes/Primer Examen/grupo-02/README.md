@@ -11,6 +11,6 @@ Validar que todos los datos sean ingresados y que estén en el formato válido. 
 
 ## Para crear la interfaz de usuario se usaron los siguientes controles :
 
-* txtNumero : "TextBox" utilizado para introducir un número.
+* <b>txtNumero</b> : "TextBox" utilizado para introducir un número.
 
-* btnAdivinar : "Button" para realizar la operación de adivinar un número.
+* <b>btnAdivinar</b> : "Button" para realizar la operación de adivinar un número.

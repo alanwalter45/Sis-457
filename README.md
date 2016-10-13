@@ -3,12 +3,12 @@
 Material correspondiente a la materia de "Sis-457" 
 
 ## Contenido
---------------------------------------------------------
-> Ejemplos de Auxiliatura
 
-> Exámenes
+> * Ejemplos de Auxiliatura
 
-> Prácticas de Laboratorio 
+> * Exámenes
+
+> * Prácticas de Laboratorio 
 
 <b>Nota:</b> 
 > Adicionalmente a lo publicado aquí, existen otros ejercicios que se resuelven en clases de auxiliatura, incluyendo otras maneras de solucionar los ejemplos mostrados en este apartado. 

@@ -6,12 +6,12 @@
 
 ## Para crear la interfaz de usuario se usaron los siguientes controles :
 
-* txtNumero1 : "TextBox" utilizado para introducir un número.
+* <b>txtNumero1</b> : "TextBox" utilizado para introducir un número.
 
-* txtNumero2 : "TextBox" utilizado para introducir un número.
+* <b>txtNumero2</b> : "TextBox" utilizado para introducir un número.
 
-* txtExpresion : "TextBox" utilizado para visualizar la expresion relacionada a la operación matemática.
+* <b>txtExpresion</b> : "TextBox" utilizado para visualizar la expresion relacionada a la operación matemática.
 
-* txtResultado : "TextBox" utilizado para visualizar el resultado de la operación.
+* <b>txtResultado</b> : "TextBox" utilizado para visualizar el resultado de la operación.
 
-* btnCalcular : "Button" utilizado para realizar la suma de dos valores de entrada.
+* <b>btnCalcular</b> : "Button" utilizado para realizar la suma de dos valores de entrada.

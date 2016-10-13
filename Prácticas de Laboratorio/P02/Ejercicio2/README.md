@@ -22,22 +22,22 @@
 
 ## Para crear la interfaz de usuario se usaron los siguientes controles :
 
-* txtNombres : TextBox utilizado para introducir los "Nombres" del estudiante.
+* <b>txtNombres</b> : TextBox utilizado para introducir los "Nombres" del estudiante.
 
-* txtApellidos : TextBox utilizado para introducir los "Apellidos" del estudiante.
+* <b>txtApellidos</b> : TextBox utilizado para introducir los "Apellidos" del estudiante.
 
-* txtDireccion : TextBox utilizado para visualizar la "Dirección" del estudiante.
+* <b>txtDireccion</b> : TextBox utilizado para visualizar la "Dirección" del estudiante.
 
-* txtTelefono : TextBox utilizado para visualizar el "Telefono" del estudiante.
+* <b>txtTelefono</b> : TextBox utilizado para visualizar el "Telefono" del estudiante.
 
-* txtFechaNacimiento : DateTimePicker utilizado para introducir la "Fecha de Nacimiento" del estudiante.
+* <b>txtFechaNacimiento</b> : DateTimePicker utilizado para introducir la "Fecha de Nacimiento" del estudiante.
 
-* rbtnMasculino : RadioButton utilizado para seleccionar el "Sexo" del estudiante en caso de que este sea "Masculino".
+* <b>rbtnMasculino</b> : RadioButton utilizado para seleccionar el "Sexo" del estudiante en caso de que este sea "Masculino".
 
-* rbtnFemenino : RadioButton utilizado para seleccionar el "Sexo" del estudiante en caso de que este sea "Femenino".
+* <b>rbtnFemenino</b> : RadioButton utilizado para seleccionar el "Sexo" del estudiante en caso de que este sea "Femenino".
 
-* txtCarnetUniversitario : TextBox utilizado para introducir el "Carnet Universitario" del estudiante.
+* <b>txtCarnetUniversitario</b> : TextBox utilizado para introducir el "Carnet Universitario" del estudiante.
 
-* txtEmail : TextBox utilizado para introducir el "Email" del estudiante.
+* <b>txtEmail</b> : TextBox utilizado para introducir el "Email" del estudiante.
 
-* btnRegistrar : Button utilizado para registrar un estudiante.
+* <b>btnRegistrar</b> : Button utilizado para registrar un estudiante.
