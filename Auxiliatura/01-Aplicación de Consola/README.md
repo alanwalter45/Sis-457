@@ -2,7 +2,9 @@
 
 > 1.- Elaborar una Aplicación que permita al usuario introducir una cantidad de segundos que estén entre un rango de 1 a 15 segundos, 
 luego al presionar enter que le muestre la cuenta de dichos segundos en pantalla 
-,por ej: 
+,
+
+por ej: 
 
 > "Esperando => 1 seg"
 
