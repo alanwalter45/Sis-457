@@ -1,6 +1,10 @@
 # Sis-457 "Fundamentos de la programación"
 
-Material correspondiente a la materia de "Sis-457" 
+Material correspondiente a la materia de "Sis-457"
+
+<div align="center">
+    <img src="img/presentacion.gif" alt="Imagen de Presentación.">
+</div> 
 
 ## Contenido
 
@@ -9,10 +13,6 @@ Material correspondiente a la materia de "Sis-457"
 > * Exámenes
 
 > * Prácticas de Laboratorio 
-
-<div align="center">
-    <img src="img/presentacion.gif" alt="Imagen de Presentación.">
-</div>
 
 <b>Nota:</b> 
 > Adicionalmente a lo publicado aquí, existen otros ejercicios que se resuelven en clases de auxiliatura, incluyendo otras maneras de solucionar los ejemplos mostrados en este apartado.
